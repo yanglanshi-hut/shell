@@ -8,7 +8,7 @@ fi
 
 # 用户名和密码，根据需要替换 YOUR_PASSWORD
 USERNAME="yls"
-PASSWORD="123123"
+PASSWORD="YOUR_PASSWORD"
 
 # 检查用户是否存在
 if id "$USERNAME" &>/dev/null; then
