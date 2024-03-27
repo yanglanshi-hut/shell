@@ -12,3 +12,4 @@ systemctl start v2ray
 systemctl enable v2ray
 
 echo "v2ray安装和配置完成"
+
